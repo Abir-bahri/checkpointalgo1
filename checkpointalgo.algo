@@ -1,6 +1,6 @@
 ALGORITHM checkpointalgo
 VAR
-    i,a,b ,c,n:INTEGER;
+    i,a,b ,n:INTEGER;
     str:STRING;
 BEGIN
   repeat
